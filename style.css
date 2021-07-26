@@ -31,6 +31,10 @@ body,html {
     justify-content: center;
 }
 
+button {
+   
+}
+
 .key {
     border: .2rem solid black;
     border-radius: 69rem;
